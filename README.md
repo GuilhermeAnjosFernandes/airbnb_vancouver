@@ -4,7 +4,7 @@
 
 Projeto realizado através de Curso de Data Science do professor Carlos Melo, da Sigmoidal.
 
-Para verificar o projeto, favor realizar acesso atráves do anexo.
+Para analisar o projeto, favor realizar acesso atráves do anexo ***"Analisando_os_dados_do_Airbnb_Vancouver***
 
 Aberto a feedbacks e cooperação.
 
