@@ -6,10 +6,10 @@ Nesse projeto, vamos analisar os dados do Airbnb da cidade de Vancouver, uma mov
 
 Vancouver hoje está passando por um processo onde ela se encontra no topo das cidades mais caras para aluguel do Canada, conforme verificado nas pesquisas realizadas para um melhor entendimento da análise dos dados.
 
-
 <p align="center">
   <img src="https://images.unsplash.com/photo-1559510859-42b76a39988f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHZhbmNvdXZlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Vancouver"height=400px >
 </p>
 
+Nessa pesquisa, vamos fazer uma análise superficial da cidade de Vancouver, verificando as características básicas de um *dataset*, a presença e limpeza de *outliers* e responder algumas questões relacionadas aos imóveis quanto a localidade, preço e quantidade de noites.
 
-O arquivo com os dados foi obtido do [Inside Airbnb](http://insideairbnb.com/get-the-data.html), e junto com informações obtidas via web, vamos fazer um paralelo com os *insights* observados com a busca e análise dos dados.
+O arquivo com os dados foi obtido do [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
