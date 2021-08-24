@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="httvancouver.jpg">
+  <img src="vancouver.jpg">
 </p>
 
 # airbnb_vancouver
