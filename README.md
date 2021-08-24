@@ -6,6 +6,6 @@ Projeto realizado através de Curso de Data Science do professor Carlos Melo, da
 
 Para analisar o projeto, favor realizar acesso atráves do anexo ***"Analisando_os_dados_do_Airbnb_Vancouver"***
 
-Aberto a feedbacks e cooperação.
+Aberto a feedback e cooperação.
 
 Pela atenção, muito obrigado.
