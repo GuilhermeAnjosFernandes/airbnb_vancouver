@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="httvancouver.jpg">
+</p>
+
 # airbnb_vancouver
 1º Projeto de Data Science realizado
 
