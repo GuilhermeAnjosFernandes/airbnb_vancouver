@@ -2,7 +2,7 @@
 
 # Análise de Dados do Airbnb - Vancouver
 ____________________________________________________
-Nesse projeto, vamos analisar os dados do Airbnb da cidade de Vancouver, uma movimentada cidade portuária na costa oeste da Colúmbia Britânica, que é considerada uma das cidades mais densas e etnicamente diversas do Canadá.
+Nesse projeto, vamos analisar os dados do Airbnb da cidade de Vancouver, uma movimentada cidade portuária na costa oeste da Colúmbia Britânica, que é considerada uma das cidades mais densas e etnicamente diversas do Canadá, e constantemente classificada como uma das cinco melhores cidades do mundo em qualidade de vida e habitabilidade.
 
 Vancouver hoje está passando por um processo onde ela se encontra no topo das cidades mais caras para aluguel do Canada, conforme verificado nas pesquisas realizadas para um melhor entendimento da análise dos dados.
 
